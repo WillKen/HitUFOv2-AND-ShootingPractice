@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{A3005D81-2978-59F3-1362-7C12BF2D2769}") = "HitUFO", "Assembly-CSharp.csproj", "{4DB90880-A555-F140-B5DF-3DC1FC27414D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB90880-A555-F140-B5DF-3DC1FC27414D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB90880-A555-F140-B5DF-3DC1FC27414D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB90880-A555-F140-B5DF-3DC1FC27414D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB90880-A555-F140-B5DF-3DC1FC27414D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

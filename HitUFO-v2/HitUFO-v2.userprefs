@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\FirstController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\FirstController.cs" Line="18" Column="37" />
+      <File FileName="Assets\Scripts\Singleton.cs" Line="17" Column="10" />
+      <File FileName="Assets\Scripts\UFOfactory.cs" Line="91" Column="31" />
+      <File FileName="Assets\Scripts\UserInterface.cs" Line="17" Column="3" />
+      <File FileName="Assets\Scripts\actions_Adapters.cs" Line="13" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
